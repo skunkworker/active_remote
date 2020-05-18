@@ -1,5 +1,9 @@
 # ActiveRemote Changes
 
+6.0.0
+----------
+- Rails 6 support.
+
 5.0.0
 ----------
 
